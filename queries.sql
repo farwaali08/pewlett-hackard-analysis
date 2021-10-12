@@ -105,3 +105,29 @@ INNER JOIN department_employees AS de
 ON (ce.emp_no = de.emp_no)
 INNER JOIN departments AS d
 ON (de.dept_no = d.dept_no);
+
+--Sales Employees Only (Skill Drill)
+select ce.emp_no,
+	ce.first_name,
+	ce.last_name,
+	de.dept_no,
+	d.dept_name
+from current_emp as ce
+	inner join department_employees as de
+		on (ce.emp_no = de.emp_no)
+	inner join departments as d
+		on (de.dept_no = d.dept_no)
+where dept_name = 'Sales';
+
+-- Sales and Development (Skill Drill 2)
+select ce.emp_no,
+	ce.first_name,
+	ce.last_name,
+	de.dept_no,
+	d.dept_name
+from current_emp as ce
+	inner join department_employees as de
+		on (ce.emp_no = de.emp_no)
+	inner join departments as d
+		on (de.dept_no = d.dept_no)
+where dept_name in ('Sales', 'Development');
