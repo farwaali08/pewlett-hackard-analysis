@@ -10,6 +10,8 @@ Ideally, this is to be completed before the "silver tsunami" makes landfall.
 
 ## **TOOLS & QUICK LINKS**
 
+### **TOOLS**
+
 * PostgreSQL 14.0
 * pgAdmin 4
 
@@ -23,4 +25,4 @@ Ideally, this is to be completed before the "silver tsunami" makes landfall.
 
 [Mentorship Eligibility CSV](https://github.com/farwaali08/pewlett-hackard-analysis/blob/de0033873d1886e0d2991903844e8629c7ac9a34/Data/mentorship_eligibility.csv)
 
-## **SUMMARY AND ANALYSIS**
+## ** RESULTS, SUMMARY, AND ANALYSIS**
