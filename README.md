@@ -10,4 +10,13 @@ Ideally, this is to be completed before the "silver tsunami" makes landfall.
 
 ## **TOOLS & QUICK LINKS**
 
+* PostgreSQL 14.0
+* pgAdmin 4
+
+[Code](https://github.com/farwaali08/pewlett-hackard-analysis/blob/de0033873d1886e0d2991903844e8629c7ac9a34/Queries/Employee_Database_challenge.sql)
+[Retirement Titles CSV](https://github.com/farwaali08/pewlett-hackard-analysis/blob/de0033873d1886e0d2991903844e8629c7ac9a34/Data/retirement_titles.csv)
+[Unique Titles CSV](https://github.com/farwaali08/pewlett-hackard-analysis/blob/de0033873d1886e0d2991903844e8629c7ac9a34/Data/unique_titles.csv)
+[Retiring Titles CSV](https://github.com/farwaali08/pewlett-hackard-analysis/blob/de0033873d1886e0d2991903844e8629c7ac9a34/Data/retiring_titles.csv)
+[Mentorship Eligibility CSV](https://github.com/farwaali08/pewlett-hackard-analysis/blob/de0033873d1886e0d2991903844e8629c7ac9a34/Data/mentorship_eligibility.csv)
+
 ## **SUMMARY AND ANALYSIS**
