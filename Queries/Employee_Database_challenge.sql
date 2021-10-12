@@ -11,3 +11,12 @@ FROM employees as e
       ON (e.emp_no = t.emp_no)
       WHERE (e.birth_date BETWEEN '1952-01-01' AND '1955-12-31')
     ORDER BY emp_no ASC;
+
+-- Use Dictinct with Orderby to remove duplicate rows
+SELECT DISTINCT ON (rt.emp_no) rt.emp_no,
+    rt.first_name,
+    rt.last_name,
+    rt.title,
+INTO unique_titles
+FROM retirement_titles as rt
+ORDER BY rt.emp_no, rt.to_date DESC;
