@@ -42,5 +42,5 @@ Next, a list of [employees eligible for retirement](https://github.com/farwaali0
 
 ![alt_text](https://github.com/farwaali08/pewlett-hackard-analysis/blob/22efad72b66ab7eca1206ba7027cf513c3161df3/Data/retiring_titles.png)
 
-Currently, there are `90,398` employees that are eligible for retirement, which is almost `38%` of the current total work force of 240,124. This 
+Currently, there are `90,398` employees that are eligible for retirement, which is almost `38%` of the current total work force of `240,124`. This is means that there will be potentially 90,000+ vacancies that will need to be filled in the near future. The
 
