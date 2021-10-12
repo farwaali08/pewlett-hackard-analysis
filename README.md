@@ -31,9 +31,16 @@ An employee database was created from 6 different data sets containing company i
 
 ![alt_text](https://github.com/farwaali08/pewlett-hackard-analysis/blob/22efad72b66ab7eca1206ba7027cf513c3161df3/EmployeeDB.png)
 
-First, a list of [employees eligible for retirement](https://github.com/farwaali08/pewlett-hackard-analysis/blob/22efad72b66ab7eca1206ba7027cf513c3161df3/Data/unique_titles.csv) was created, and used to obtain a count of retirements by title, as seen in the image below:
+
+
+First, a count of the total active employees was obtained:
+
+![alt_text](https://github.com/farwaali08/pewlett-hackard-analysis/blob/01dd05b074246b275e43cc4021e957c518d879c9/current_employees.png)
+
+
+Next, a list of [employees eligible for retirement](https://github.com/farwaali08/pewlett-hackard-analysis/blob/22efad72b66ab7eca1206ba7027cf513c3161df3/Data/unique_titles.csv) was created, and used to obtain a count of retirements by title, as seen in the image below:
 
 ![alt_text](https://github.com/farwaali08/pewlett-hackard-analysis/blob/22efad72b66ab7eca1206ba7027cf513c3161df3/Data/retiring_titles.png)
 
-PH employs 300,204
+Currently, there are `90,398` employees that are eligible for retirement, which is almost `38%` of the current total work force of 240,124. This 
 
