@@ -42,5 +42,10 @@ Next, a list of [employees eligible for retirement](https://github.com/farwaali0
 
 ![alt_text](https://github.com/farwaali08/pewlett-hackard-analysis/blob/22efad72b66ab7eca1206ba7027cf513c3161df3/Data/retiring_titles.png)
 
-Currently, there are `90,398` employees that are eligible for retirement, which is almost `38%` of the current total work force of `240,124`. This is means that there will be potentially 90,000+ vacancies that will need to be filled in the near future. The
+Currently, there are `90,398` employees that are eligible for retirement, which is almost `38%` of the current total work force of `240,124`. This is means that there will be potentially 90,000+ vacancies that will need to be filled in the near future. This is certainly an undertaking, and will require extensive planning to ensure that these transitions are implemented as seamlessly as possible. Additionally, nearly two-thirds, or `67%` of the potential retirees are currently in Senior Engineer or Senior Staff positions. This indicates that these positions should take priority when making staffing decisions.
+
+With more than a third of the staff approaching retirement, another consideration that needs to be made is ensuring that there is sufficient time and resourcing for knowledge transfer. In anticipation of this task, a [list of mentors](https://github.com/farwaali08/pewlett-hackard-analysis/blob/f437f711013348bc01a0d7b24f6a461eb3d94448/Data/mentorship_eligibility.csv) was created, and a snippet of it is included below:
+
+
+![alt_text](https://github.com/farwaali08/pewlett-hackard-analysis/blob/bcc6e0afd5d4b37c44e51ec105236d66fb6906e9/mentors.png)
 
