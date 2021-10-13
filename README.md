@@ -47,6 +47,8 @@ Currently, there are `90,398` employees that are eligible for retirement, which 
 With more than a third of the staff approaching retirement, another consideration that needs to be made is ensuring that there is sufficient time and resourcing for knowledge transfer. In anticipation of this task, a [list of mentors](https://github.com/farwaali08/pewlett-hackard-analysis/blob/5501c747ea65b6194b28a1f553e43b99289a9b30/Data/mentorship_eligibility.csv) was created, and a snippet of it is included below:
 
 
-![alt_text](https://github.com/farwaali08/pewlett-hackard-analysis/blob/bcc6e0afd5d4b37c44e51ec105236d66fb6906e9/mentors.png)
+
+![alt_text](https://github.com/farwaali08/pewlett-hackard-analysis/blob/9ac74aea7263ac7ee40f8ecb0909877c2bd7b4ab/mentors.png)
+
 
 The data indicates that there are only `1,549` employees that are eligible to provide mentorship, which will not be sufficient to accommodate the volume of new hires. The majority of the mentorships
