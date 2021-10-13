@@ -51,4 +51,4 @@ With more than a third of the staff approaching retirement, another consideratio
 ![alt_text](https://github.com/farwaali08/pewlett-hackard-analysis/blob/9ac74aea7263ac7ee40f8ecb0909877c2bd7b4ab/mentors.png)
 
 
-The data indicates that there are only `1,549` employees that are eligible to provide mentorship, which will not be sufficient to accommodate the volume of new hires. The majority of the mentorships
+The data indicates that there are only `1,549` employees that are eligible to provide mentorship, which will not be sufficient to accommodate the volume of new hires. The majority of the mentors (`797` specifically,) are in senior positions, namely Senior Engineer, Senior Staff, and Technique Leader. It can be assumed that these positions are more specialized than their junior counterparts, and would be better filled with internal candidates, through promotions. This would allow new hires to be mentored by o
