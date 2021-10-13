@@ -49,3 +49,4 @@ With more than a third of the staff approaching retirement, another consideratio
 
 ![alt_text](https://github.com/farwaali08/pewlett-hackard-analysis/blob/bcc6e0afd5d4b37c44e51ec105236d66fb6906e9/mentors.png)
 
+The data indicates that there are only `1,549` employees that are eligible to provide mentorship, which will not be sufficient to accommodate the volume of new hires.
